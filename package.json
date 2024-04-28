@@ -1,0 +1,8 @@
+{
+  "name": "mre_pnpm_monorepo_package_dependency_build_skipped",
+  "version": "0.0.0",
+  "packageManager": "pnpm@9.0.5",
+  "scripts": {
+    "install": "ls -al packages/subpackage/node_modules/canvas/build"
+  }
+}
